@@ -69,7 +69,7 @@ let emptyDictionary = Dictionary<String, Float>()
 // If type information can be inferred, you can write an empty array as [:] - for example, when you set a new value for
 // a variable or pass an argument to a function
 
-shoppingList = [] // Went shopping and bough everything
+shoppingList = [] // Went shopping and bought everything
 
 
 /******************
